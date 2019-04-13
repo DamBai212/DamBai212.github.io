@@ -6,7 +6,7 @@ permalink:  getting_familiar_with_cors
 ---
 
 
-    CORS might be an unfamiliar concept to some students at Flatiron School mainly because the labs have built-in TDDs with set conditions. That prevent noticeable CORS errors from happening mainly due to the fact that the data we fetch is open source. CORS which is short for Cross-Origin Resource Sharing was created for allowing users to make a secure request while blocking sketchy requests made by rogue JS. So basically CORS is used for secure cross-site HTTP requests. Below is an example of these requests work under the hood.
+   CORS might be an unfamiliar concept to some students at Flatiron School mainly because the labs have built-in TDDs with set conditions. That prevent noticeable CORS errors from happening mainly due to the fact that the data we fetch is open source. CORS which is short for Cross-Origin Resource Sharing was created for allowing users to make a secure request while blocking sketchy requests made by rogue JS. So basically CORS is used for secure cross-site HTTP requests. Below is an example of these requests work under the hood.
 
 ![](https://mdn.mozillademos.org/files/14295/CORS_principle.png)
 
