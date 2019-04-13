@@ -1,12 +1,13 @@
 ---
 layout: post
 title:      "Revenge of the Bots!!!!"
-date:       2019-04-13 17:36:18 +0000
+date:       2019-04-13 13:36:19 -0400
 permalink:  revenge_of_the_bots
 ---
 
 
 ![](https://cdn-images-1.medium.com/max/1600/0*ZyJbgXVQGAEyO6i1.png)
+
 
   What is a Bot? To put simply bots are computer programs you typically interact with through written or a spoken language, that is meant to make your life easier. They’ve become widely popular among numerous active users of messengers(e.g. “Slack”) since they have various scopes of use — from entertaining content including step-by-step games to hacking into databases, tracking deliveries, and even making traveling suggestions for your next holiday. The usage possibilities for bots are endless.
 
