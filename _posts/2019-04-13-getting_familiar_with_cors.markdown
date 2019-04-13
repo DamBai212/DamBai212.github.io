@@ -15,5 +15,5 @@ CORS which is short for Cross-Origin Resource Sharing was created for allowing u
 Simply put CORS is a mechanism that prevents hackers rogue JS from making AJAX calls to confidential information that would end up in the wrong hands. Creating a secure environment for the user and the site being requested. It's to be noted that if you do come across a CORS error, the problem might actually be caused by the lack of headers on the client-side. 
 
 The solution  I found most practical on handling this issue was by using a CORS-as-a-service solution such as https://cors-anywhere.herokuapp.com/ . This URL adds headers to the request under the hood. Below I've added a link on more documentation of CORS.
-[](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+[Link](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
