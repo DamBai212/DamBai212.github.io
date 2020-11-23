@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What are the lifecycle methods of a react component?"
-date:       2020-11-23 22:22:28 +0000
+date:       2020-11-23 17:22:29 -0500
 permalink:  what_are_the_lifecycle_methods_of_a_react_component
 ---
 
