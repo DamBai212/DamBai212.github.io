@@ -21,10 +21,12 @@ The following methods are called when an instance of a component is being create
     };
 }`
 
-*   render()
+* render()
+ 
   * This is the only required/mandatory method in your component and all other methods are optional. This should be a pure function and should not modify state. Render function can return either another React element(JSX) or arrays and fragments or strings or portals(to render the children into a different DOM sub-tree) or booleans.
-  * Examaple:
-    `render() {
+
+   * Example:
+   `render() {
   const {count} = this.state;
   return (
       <div>
@@ -34,10 +36,12 @@ The following methods are called when an instance of a component is being create
   )
 }`
 
-*   componentDidMount()
-  * This method is invoked immediately after the component is inserted into the DOM tree. It will be called only once per component. A most common use case of this method is to load data via an Ajax call.
-  * Examaple:
-    `componentDidMount() {
+* componentDidMount()
+ 
+  *  This method is invoked immediately after the component is inserted into the DOM tree. It will be called only once per component. A most common use case of this method is to load data via an Ajax call.
+
+   * Example:
+   `componentDidMount() {
     axios.get("htttp://getcurrenttimeinutc.com", {
         params: {
             format: "minutes"
@@ -52,3 +56,5 @@ The following methods are called when an instance of a component is being create
         //log error
     })    
 }`
+
+
